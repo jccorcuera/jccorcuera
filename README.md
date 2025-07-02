@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Johny Corcuera
 
-<!--
-**jccorcuera/jccorcuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a freelance SEO Specialist based in the Philippines — helping businesses grow sustainably with data-driven SEO strategies.  
 
-Here are some ideas to get you started:
+✨ **What I do:**
+- SEO Audits & Technical SEO
+- Keyword Research & Content Strategy
+- On-Page & Off-Page Optimization
+- Local SEO & Google Business Profile Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tools I use:**
+- Google Analytics
+- Google Search Console
+- SEMrush, Ahrefs, Screaming Frog
+- Rank Math, PageSpeed Insights
+
+🌐 **Visit my website:**
+[JCcorcuera — SEO Specialist in the Philippines](https://jccorcuera.seospecialist.site/)
+
+📄 **Certifications:**
+- Google Analytics
+- Keyword Research
+- Website Quality Audit
+- Amazon SEO (Helium 10)
+
+---
+
+Let’s connect and grow your organic visibility!
