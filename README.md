@@ -1,28 +1,31 @@
-# 👋 Hi there! I'm Johny Corcuera
+# Hi, I'm Johny Corcuera
 
-I’m a freelance SEO Specialist based in the Philippines — helping businesses grow sustainably with data-driven SEO strategies.  
+I’m Johny Corcuera, a freelance SEO Specialist based in the Philippines. I help businesses grow their organic presence through clear, data-driven strategies that focus on long-term results. From technical audits and keyword research to on-page, off-page, and local SEO, I work closely with clients to build sustainable visibility and real business growth, not just rankings. Let's build something lasting together.
 
-✨ **What I do:**
+## What I Do
+
 - SEO Audits & Technical SEO
 - Keyword Research & Content Strategy
-- On-Page & Off-Page Optimization
+- On-Page Optimization
+- Off-Page Link Building
 - Local SEO & Google Business Profile Optimization
 
-🛠 **Tools I use:**
+## Tools I Use
+
 - Google Analytics
 - Google Search Console
 - SEMrush, Ahrefs, Screaming Frog
 - Rank Math, PageSpeed Insights
 
-🌐 **Visit my website:**
-[JCcorcuera — SEO Specialist in the Philippines](https://jccorcuera.seospecialist.site/)
+## Certifications
 
-📄 **Certifications:**
 - Google Analytics
 - Keyword Research
 - Website Quality Audit
-- Amazon SEO (Helium 10)
+- On-Page Optimization
+- Off-Page Link Building
+- Local SEO & Google Business Profile
 
----
+## Visit My Website
 
-Let’s connect and grow your organic visibility!
+[JCcorcuera — SEO Specialist in the Philippines](https://jccorcuera.seospecialist.site/)
