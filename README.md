@@ -28,4 +28,4 @@ I’m Johny Corcuera, a freelance SEO Specialist based in the Philippines. I hel
 
 ## Visit My Website
 
-[JCcorcuera — SEO Specialist in the Philippines](https://jccorcuera.seospecialist.site/)
+[JCcorcuera — SEO Specialist in the Philippines](https://jccorcuera.com/)
